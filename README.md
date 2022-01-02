@@ -1,0 +1,1 @@
+# pyqt_dynamic_qr_prototype
